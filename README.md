@@ -1,0 +1,1 @@
+This project is all about the Practice Set of Android basics Nanodegree
